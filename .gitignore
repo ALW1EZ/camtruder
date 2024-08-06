@@ -1,0 +1,7 @@
+# exploits/ results/ *.txt files
+/exploits/
+/results/
+*.txt
+
+# and camtruder binary
+camtruder
