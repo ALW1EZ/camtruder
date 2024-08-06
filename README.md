@@ -1,9 +1,10 @@
 # Camtruder 🕵️‍♂️
 
-![readme_photo](https://github.com/user-attachments/assets/2b78d7e7-0c16-41dc-b39e-a28275e51326)
+![2024-08-07_00-10](https://github.com/user-attachments/assets/799c7b39-c16d-49b1-b87e-8360cbd4e8bf)
+
 
 *by: @alw1ez*  
-*Version: 1.0.0*
+*Version: 1.0*
 
 ## Overview
 
@@ -128,13 +129,13 @@ This tool is intended for educational purposes only. Use it responsibly and only
 
 ## Thanks
 
-Thanks to @Ullaakut for his project ![Cameradar](https://github.com/Ullaakut/cameradar), and directories folder, helped a lot.
+Thanks to ![@Ullaakut](https://github.com/Ullaakut/) for his project ![Cameradar](https://github.com/Ullaakut/cameradar), and directories folder, helped a lot.
 
-Thanks to @projectdiscovery for this beautiful ![gologger](https://github.com/projectdiscovery/gologger) library.
+Thanks to ![@projectdiscovery](https://github.com/projectdiscovery/) for this beautiful ![gologger](https://github.com/projectdiscovery/gologger) library.
 
-Thanks to @icholy for ![digest](https://github.com/icholy/digest) library.
+Thanks to ![icholy](https://github.com/icholy/) for ![digest](https://github.com/icholy/digest) library.
 
-Thanks to @common-nighthawk for ![go-figure](https://github.com/common-nighthawk/go-figure) library, hard-coded ASCII arts really stresses me out.
+Thanks to ![@common-nighthawk](https://github.com/common-nighthawk/) for ![go-figure](https://github.com/common-nighthawk/go-figure) library, hard-coded ASCII arts really stresses me out.
 
 ## License
 
