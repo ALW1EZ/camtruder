@@ -178,4 +178,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Project Link: [https://github.com/ALW1EZ/camtruder](https://github.com/ALW1EZ/camtruder)
 
 ---
-<p align="center">Made with ❤️ by @ALW1EZ</p>
+<p align="center">Made by @ALW1EZ</p>
